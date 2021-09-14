@@ -1,6 +1,7 @@
 ## Hi there, I'm Eric👋
 
-[![GitHub followers](https://img.shields.io/github/followers/eric-mahasi?color=%23181717&label=Eric%20Mahasi&logo=github&style=for-the-badge)](https://github.com/eric-mahasi)
+[![GitHub followers](https://img.shields.io/github/followers/eric-mahasi?color=%23181717&label=Eric%20Mahasi&logo=github&style=for-the-badge)][github]
+[![Twitter Follow](https://img.shields.io/twitter/follow/EricMahasi?color=%231DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
 - 👨🏿‍🎓 I'm currently a student at United States International Univeristy-Africa
@@ -57,3 +58,4 @@
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/ericmahasi
 [linkedin]: https://www.linkedin.com/in
+[github]: https://github.com/eric-mahasi
