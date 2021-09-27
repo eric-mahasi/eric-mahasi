@@ -33,12 +33,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  [![Eric Mahasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eric-mahasi)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eric-mahasi)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Eric Mahasi's GitHub Stats" src="https://github-readme-stats-eight-orpin.vercel.app/api?username=eric-mahasi&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [twitter]: https://twitter.com/EricMahasi
 [youtube]: https://youtube.com/codeSTACKr
