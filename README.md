@@ -9,10 +9,9 @@
 - 👸🏿 Hobbies: Reading science fiction and fantasy books 
 
 ### I'm Currently Learning
-- FIC4020 Forensic Accounting and Fraud Investigations
-- FIC4050 Computer Forensics and Investigation
-- APT4910 Applied Computer Technology Internship
-- APT3065 Mid-term Project
+- APT3025 Applied Machine Learning
+- APT4900 Applied Computer Technology Project
+- FIC4040 Information Technology and Cybercrime
 
 ### Connect With Me:
 
