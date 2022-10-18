@@ -41,5 +41,5 @@
 
 [twitter]: https://twitter.com/EricMahasi
 [instagram]: https://www.instagram.com/ericmahasi
-[linkedin]: https://www.linkedin.com/in
+[linkedin]: https://www.linkedin.com/in/eric-mahasi
 [github]: https://github.com/eric-mahasi
