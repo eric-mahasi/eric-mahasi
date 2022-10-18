@@ -4,14 +4,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/EricMahasi?color=%231DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 
-- 👨🏿‍🎓 I'm currently a student at United States International Univeristy-Africa
-- 💻 I'm taking a Bachelor of Science in Applied Computer Technology 
+- 👨🏿‍🎓 I'm currently a Data Analyst
+- 💻 I graduated Cum Laude with a Bachelor of Science in Applied Computer Technology 
 - 👸🏿 Hobbies: Reading science fiction and fantasy books 
 
 ### I'm Currently Learning
-- APT3025 Applied Machine Learning
-- APT4900 Applied Computer Technology Project
-- FIC4040 Information Technology and Cybercrime
+- Looker
+- SQL
+- Exploratory Data Analysis
 
 ### Connect With Me:
 
@@ -40,7 +40,6 @@
 
 
 [twitter]: https://twitter.com/EricMahasi
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/ericmahasi
 [linkedin]: https://www.linkedin.com/in
 [github]: https://github.com/eric-mahasi
